@@ -1,1 +1,1 @@
-Hello World!
+Scala examples - playground!
